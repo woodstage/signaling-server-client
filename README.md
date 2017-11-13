@@ -40,6 +40,8 @@ client.on("message", function(message) {
 // connect to signaling server
 client.connect(SIGNALING_SERVER_URL).then(function(connectedUsers) {
   // send message to other user
-  client.send(users[0], {message: "Hello World!"})
+  client.send(users[0], {message: "Hello World!"}).then(function(reply) {
+    // got reply from other user
+  });
 });
 ```
