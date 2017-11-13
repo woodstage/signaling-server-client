@@ -2,6 +2,8 @@
 
 Client for [Signaling Server](https://github.com/woodstage/signaling-server)
 
+[![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/signaling-server-client)
+
 ## Installation
 `
 npm install signaling-server-client
