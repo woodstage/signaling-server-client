@@ -8,7 +8,7 @@ npm install signaling-server-client
 `
 
 ## Usage
-```
+```javascript
 var SignalingServerClient = require("signaling-server-client");
 
 
