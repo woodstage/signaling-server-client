@@ -2,7 +2,8 @@
 
 Client for [Signaling Server](https://github.com/woodstage/signaling-server)
 
-[![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/signaling-server-client)
+[![](https://img.shields.io/travis/woodstage/signaling-server-client.svg?style=flat-square)](https://travis-ci.org/woodstage/signaling-server-client)
+[![npm version](http://img.shields.io/npm/dm/signaling-server-client.svg?style=flat-square)](https://www.npmjs.com/signaling-server-client)
 
 ## Installation
 `

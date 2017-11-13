@@ -1,6 +1,6 @@
 {
   "name": "signaling-server-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Signaling Server Client",
   "main": "./lib/index.js",
   "module": "./esm/index.js",
