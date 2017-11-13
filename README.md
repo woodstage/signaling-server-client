@@ -1,9 +1,9 @@
 # Signaling Server Client
 
-Client for [Signaling Server](https://github.com/woodstage/signaling-server)
-
 [![](https://img.shields.io/travis/woodstage/signaling-server-client.svg?style=flat-square)](https://travis-ci.org/woodstage/signaling-server-client)
 [![npm version](http://img.shields.io/npm/dm/signaling-server-client.svg?style=flat-square)](https://www.npmjs.com/signaling-server-client)
+
+Client for [Signaling Server](https://github.com/woodstage/signaling-server)
 
 ## Installation
 `
