@@ -29,7 +29,7 @@ client.on("user_online", function(onlineUser) {
 
 });
 
-client.on("user_online", function(offlineUser) {
+client.on("user_offline", function(offlineUser) {
   // got user offline notification
   
 });
