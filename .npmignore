@@ -1,4 +1,4 @@
 .babelrc
 .gitignore
 .npmignore
-.yarn.lock
+yarn.lock
